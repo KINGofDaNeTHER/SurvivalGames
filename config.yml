@@ -1,0 +1,15 @@
+prefix: "&e[&6SurvivalGames&e]&f"
+no-perm-msg: "&cYou are not allowed to use this command!"
+explosive-mine:
+  name: "&cExplosive Mine"
+  explosion-power: 2
+  material: STONE_PLATE
+tracking-bow:
+  item: BOW
+  name: "&cTracking Bow"
+whitelisted-worlds:
+ - "world"
+whitelisted-commands:
+ - "command"
+leaderboard:
+  amount: 5

@@ -1,0 +1,11 @@
+main: me.kingofdanether.survivalgames.SurvivalGames
+name: NCCSG
+author: KINGofDaNeTHER
+version: 1.0
+softdepend: [Multiverse-Core]
+commands:
+   sg:
+      usage: /<command>
+      description: Main survival games command.
+   
+   
